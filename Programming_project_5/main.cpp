@@ -1,3 +1,4 @@
+// Kruhlienia Yulia K-28
 #include <iostream>
 #include <syncstream>
 #include <future>
